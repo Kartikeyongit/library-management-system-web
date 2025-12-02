@@ -22,3 +22,6 @@ library-management-web/
 │── style.css
 │── script.js
 │── README.md
+
+## Screenshot
+<img width="1917" height="991" alt="Screenshot 2025-12-02 140920" src="https://github.com/user-attachments/assets/464829eb-0cc1-4f56-9e9b-1a3948251572" />
